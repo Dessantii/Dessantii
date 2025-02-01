@@ -32,10 +32,10 @@ I'm a Science of Computing and CyberSecurity Student
   <br/>
   Ongoing courses:
 	
-  [<img src="https://hermes.dio.me/tracks/f84e9d1e-8ed5-46f7-b9a0-dcf5a0396f33.png" width="90">](https://web.dio.me/track/57a616a7-25cb-4ad9-9ee8-f03eb9a33ebc)
+
 
 Completed courses:
-
+  [<img src="https://hermes.dio.me/tracks/f84e9d1e-8ed5-46f7-b9a0-dcf5a0396f33.png" width="90">](https://web.dio.me/track/57a616a7-25cb-4ad9-9ee8-f03eb9a33ebc)
   [<img src="https://i0.wp.com/blog.dsacademy.com.br/wp-content/uploads/2020/08/Enviando-Dados-Para-o-SAP-Hana-com-Apache-NiFi.png?fit=800%2C445&ssl=1" width="90">](https://www.sap.com/brazil/index.html)
   [<img src="https://idesp.com.br/wp-content/uploads/2023/03/SC900.png" width="70">](https://learn.microsoft.com/pt-br/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification)
   [<img src="https://consultabd.wordpress.com/wp-content/uploads/2020/08/img002_dp900.png" width="70">](https://learn.microsoft.com/pt-br/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification)
